@@ -1,1 +1,1 @@
-# Data_Science_in_Fabric_workshop
+# Data Science in Fabric Workshop
