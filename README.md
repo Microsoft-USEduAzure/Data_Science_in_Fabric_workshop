@@ -8,7 +8,21 @@ Welcome to the Microsoft Fabric Hands-on workshop repository! This repository is
 
 This repository is organized into different sections to help you navigate through various resources easily.
 
-### Fabric Readiness Repository
+### Prerequisites
+
+The following prerequisites must be completed before you start these labs
+
+- WI-FI enabled Laptop
+
+- You must be connected to the internet
+
+- Use Edge browser when executing the labs
+
+- Get a [Microsoft Fabric subscription](https://learn.microsoft.com/en-us/fabric/enterprise/licenses). Or, sign up for a free [Microsoft Fabric trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial)
+
+- Sign in to [Microsoft Fabric](https://app.fabric.microsoft.com)
+
+- If you don't have a Microsoft Fabric lakehouse, create one by following the steps in [Create a lakehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/create-lakehouse)
 
 The [Fabric Readiness Repository](https://github.com/microsoft/Fabric-Readiness) contains presentation decks for various purposes, including user groups, online presentations, in-person conferences, and customer discussions. These resources come with comprehensive notes for presenters.
 
