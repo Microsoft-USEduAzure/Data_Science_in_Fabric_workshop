@@ -24,8 +24,6 @@ The following prerequisites must be completed before you start these labs
 
 - If you don't have a Microsoft Fabric lakehouse, create one by following the steps in [Create a lakehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-engineering/create-lakehouse)
 
-The [Fabric Readiness Repository](https://github.com/microsoft/Fabric-Readiness) contains presentation decks for various purposes, including user groups, online presentations, in-person conferences, and customer discussions. These resources come with comprehensive notes for presenters.
-
 ## Governance
 
 ### Code of Conduct
